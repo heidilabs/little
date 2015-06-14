@@ -1,0 +1,3 @@
+little_default:
+    path: /
+    defaults: { _controller: "Little\Controller\DefaultController::indexAction" }

@@ -1,2 +1,2 @@
 # little
-Little provides a simple structure based on Silex to create small websites for open source projects.
+Little provides a structure for building small to medium applications with Silex.

@@ -1,0 +1,4 @@
+name: Little App - Silex Extended
+description: Little App brings a basic structure to create small to medium projects with Silex.
+routing: app/config/routing.yml
+views: app/views
