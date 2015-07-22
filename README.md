@@ -1,6 +1,10 @@
 # little
 Little provides a structure for building small to medium applications with Silex.
 
+## Libraries included
+Little comes with some css/js libraries in the `web/assets` folder:
+- [Bootstrap 3.3.4](http://getbootstrap.com/)
+
 ## Install
 
     $ composer create-project heidilabs/little myproject
